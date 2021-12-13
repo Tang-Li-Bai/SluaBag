@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1946652451
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: itemgrid
+      Dependencies: {}
+    Info_1:
+      Name: panel
+      Dependencies: {}
+    Info_2:
+      Name: imgs
+      Dependencies: {}
+    Info_3:
+      Name: data
+      Dependencies: {}

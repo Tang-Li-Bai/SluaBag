@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3422583995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 642b2775d8da53b9f06e1d5b9a1d91ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b3feb9bc6055cd677abb4cd6f720d90
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/UI/Image/Img.spriteatlas
+Dependencies: []
